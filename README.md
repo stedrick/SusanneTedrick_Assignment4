@@ -1,4 +1,4 @@
-# SusanneTedrick_Assignment4
+# SusanneTedrick_Assignment3
 Susanne Tedrick 
-March 11, 2018 
-Assignment # 4 for CIS 385
+February 10, 2018 
+Assignment # 3 for CIS 385
